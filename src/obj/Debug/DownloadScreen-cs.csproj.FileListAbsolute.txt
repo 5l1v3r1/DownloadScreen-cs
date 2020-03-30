@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\bin\Debug\DownloadScreen-cs.exe.config
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\bin\Debug\DownloadScreen-cs.exe
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\bin\Debug\DownloadScreen-cs.pdb
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen-cs.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen_cs.download.resources
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen_cs.Properties.Resources.resources
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen-cs.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen-cs.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen-cs.exe
+C:\Users\PC\Desktop\Visual Studio Projects\DownloadScreen-cs\obj\Debug\DownloadScreen-cs.pdb
